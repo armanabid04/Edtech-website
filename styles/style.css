@@ -2,3 +2,20 @@
 .working-bg-color{
     background-color: #F4FAFD;
 }
+.modal-bg-color{
+    background-color:#289BDE;
+}
+.btn-color{
+   background-color: #289BDE;
+   color: azure;
+   font-weight: 700;
+}
+.btn-outline-color{
+    background-color:azure;
+    color:#289BDE;
+    font-weight: 700;
+}
+.footer-bg-color{
+    background-color: rgba(22, 22, 22, 1);
+    ;
+}
